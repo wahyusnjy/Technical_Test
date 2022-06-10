@@ -1,0 +1,16 @@
+Sebelum menjalankan program pastikan di laptop sudah tersedia
+-xampp
+-composer
+
+Tata cara jalanin program
+-Extract folder program ke folder xampp
+-buka foldernya(TechnicalTest) di visual studio code
+-ganti .env.example -> .env
+-buat database yang terletak di .env DB_DATABASE
+-buka terminal 
+-ketik  diterminal composer install (harus punya composer)
+-lalu ketik php artisan migrate
+-jika semua berjalan lancar bisa di php artisan serve
+
+Jika terdapat kendala bisa wa saya mas.. 
+083805396427
